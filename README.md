@@ -1,5 +1,10 @@
 # Emoji
 
+Enter you personality in-terms of Emoji's
+
+![screenshot](https://raw.github.com/gvemulapalli33/emoji/master/emoji.png)
+
+
 Quick start:
 
 ```
